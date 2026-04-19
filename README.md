@@ -1,6 +1,5 @@
 # PRODIGY_AD_04
 # 🎮 PRODIGY_AD_04 - Tic Tac Toe Game
-
 A Tic Tac Toe Game Android App built using **Java**
 as Task 4 of my Android Development Internship at **Prodigy InfoTech**.
 
